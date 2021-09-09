@@ -47,7 +47,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 - Gloucester County Election Results
   - Accessed: 09/09/2021
-
+  - https://results.enr.clarityelections.com/NJ/Gloucester/64655/183917/Web01/en/summary.html
 - Hudson County Election Results
   - Accessed: 09/09/2021
   - http://assets01.aws.connect.clarityelections.com/Assets/Connect/RootPublish/hudson-nj.connect.clarityelections.com/Election_Archive/2016/General/2016-District-CanvassReport-General-Election-2016.pdf
