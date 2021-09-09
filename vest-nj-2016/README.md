@@ -41,7 +41,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
   - https://www.capemaycountyvotes.com/wp-content/uploads/2016/11/SOV-Muni.pdf
 - Cumberland County Election Results
   - Accessed: 09/09/2021
-
+  - https://results.enr.clarityelections.com/NJ/Cumberland/64715/183815/Web01/en/summary.html#
 - Essex County Election Results
   - Accessed: 09/09/2021
 
@@ -53,37 +53,37 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
   - http://assets01.aws.connect.clarityelections.com/Assets/Connect/RootPublish/hudson-nj.connect.clarityelections.com/Election_Archive/2016/General/2016-District-CanvassReport-General-Election-2016.pdf
 - Hunterdon County Election Results
   - Accessed: 09/09/2021
-
+  - https://www.co.hunterdon.nj.us/election/2016/General/Official%20SOV%20G2016.pdf
 - Mercer County Election Results
   - Accessed: 09/09/2021
-
+  - https://results.enr.clarityelections.com/NJ/Mercer/64156/183586/Web01/en/summary.html#
 - Middlesex County Election Results
   - Accessed: 09/09/2021
 
 - Monmouth County Election Results
   - Accessed: 09/09/2021
-
+  - https://results.enr.clarityelections.com/NJ/Monmouth/64727/184376/Web01/en/summary.html
 - Morris County Election Results
   - Accessed: 09/09/2021
-
+  - https://results.enr.clarityelections.com/NJ/Morris/64169/183963/Web01/en/summary.html#
 - Ocean County Election Results
   - Accessed: 09/09/2021
-
+  - https://www.clerk.co.ocean.nj.us/frmElectionServices?page=archives
 - Passaic County Election Results
   - Accessed: 09/09/2021
-
+  - https://www.passaiccountynj.org/government/elected_and_appointed_officials/passaic_county_clerk/election_results.php
 - Salem County Election Results
   - Accessed: 09/09/2021
-
+  - https://salemcountyclerk.org/wp-content/uploads/2017/02/2016-General-SOV.pdf
 - Somerset County Election Results
   - Accessed: 09/09/2021
-
+  - https://www.co.somerset.nj.us/home/showpublisheddocument/17840/636150639711130000
 - Sussex County Election Results
   - Accessed: 09/09/2021
-
+  - https://www.sussexcountyclerk.org/docs/elections/2016/20161108-Official/EL30-OFFICIAL.pdf
 - Union County Election Results
   - Accessed: 09/09/2021
-
+  - https://results.enr.clarityelections.com/NJ/Union/64712/183160/Web01/en/summary.html#
 - Warren County Election Results
   - Accessed: 09/09/2021
   - 
