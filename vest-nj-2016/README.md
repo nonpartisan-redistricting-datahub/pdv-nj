@@ -1,7 +1,7 @@
 # pdv-nj
 Partner data validation for New Jersey, from VEST 2016. 
 
-Our final validation report for this dataset is available[In-Process] [here](https://redistrictingdatahub.org/dataset/).
+Our final validation report for this dataset is available [here](https://redistrictingdatahub.org/dataset/vest-2016-new-jersey-precinct-boundaries-and-election-results-shapefile/).
 
 We do not have the raw data sources available on this Github due to file constraints, but we are happy to share them if needed. 
 
